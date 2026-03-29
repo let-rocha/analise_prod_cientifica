@@ -5,6 +5,7 @@
    ```bash
    git clone -b dev [https://github.com/let-rocha/analise_prod_cientifica.git](https://github.com/let-rocha/analise_prod_cientifica.git)
 
+OBS: Os scripts estão na branch dev!
 
 **Desafio Técnico: Análise de Qualidade e Impacto de Periódicos**
 Este desafio é focado na análise de qualidade e impacto de 22 mil periódicos científicos entre 2019 e 2021.
