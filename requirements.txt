@@ -1,0 +1,3 @@
+# Dependências do projeto
+pandas
+sqlite3
