@@ -34,7 +34,7 @@ O dashboard foi desenhado para responder perguntas de negócios relacionadas aos
 
 **Stack Tecnológica**
 
-    Python 3.11 (Pandas, Numpy, Sqlite3)
+    Python 3.11 (Pandas, Sqlite3)
 
     SQLite (Armazenamento Relacional)
 
